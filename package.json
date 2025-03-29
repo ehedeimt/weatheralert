@@ -1,17 +1,19 @@
 {
-  "name": "mi-app-backend",
+  "name": "weatheralert",
   "version": "1.0.0",
-  "description": "Backend para mi aplicación web",
+  "description": "Backend para registro de usuarios y conexión a PostgreSQL",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "pg": "^8.7.1",
-    "cors": "^2.8.5"
+    "express": "^4.17.1",   // Framework para crear el servidor HTTP
+    "pg": "^8.7.1",         // Paquete para conectar a PostgreSQL
+    "cors": "^2.8.5"        // Middleware para habilitar CORS (Cross-Origin Resource Sharing)
   },
   "engines": {
     "node": "14.x"
-  }
+  },
+  "author": "Ehedei",
+  "license": "ISC"
 }
