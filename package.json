@@ -7,9 +7,9 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.17.1",   // Framework para crear el servidor HTTP
-    "pg": "^8.7.1",         // Paquete para conectar a PostgreSQL
-    "cors": "^2.8.5"        // Middleware para habilitar CORS (Cross-Origin Resource Sharing)
+    "express": "^4.17.1",   
+    "pg": "^8.7.1",  
+    "cors": "^2.8.5"
   },
   "engines": {
     "node": "14.x"
