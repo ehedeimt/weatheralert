@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15" version="26.2.2">
-  <diagram name="Página-1" id="5VAv7JKTFTqaLb6jsyeU">
-    <mxGraphModel>
+  <diagram name="Página-1" id="CDPxZ2y2oRvM8uiszXN1">
+    <mxGraphModel dx="1020" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eul3kOhSNh3tley34Y3X-3" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="130" y="160" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eul3kOhSNh3tley34Y3X-5" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" parent="1" vertex="1">
+          <mxGeometry x="200" y="119.4" width="82.24" height="80.6" as="geometry" />
+        </mxCell>
+        <mxCell id="eul3kOhSNh3tley34Y3X-7" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="379" y="250" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eul3kOhSNh3tley34Y3X-4" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" parent="eul3kOhSNh3tley34Y3X-7" vertex="1">
+          <mxGeometry width="65.6" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eul3kOhSNh3tley34Y3X-6" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" parent="eul3kOhSNh3tley34Y3X-7" vertex="1">
+          <mxGeometry x="38.18181818181818" width="31.818181818181817" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
