@@ -8,16 +8,16 @@
           <mxGeometry x="130" y="160" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="T51uil6T-Yv0GnbOR8lT-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="350" y="200" width="90" height="100" as="geometry" />
+          <mxGeometry x="350" y="200" width="116.46000000000001" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eul3kOhSNh3tley34Y3X-7" value="" style="group" parent="T51uil6T-Yv0GnbOR8lT-3" vertex="1" connectable="0">
-          <mxGeometry x="8" width="70" height="80" as="geometry" />
+          <mxGeometry x="8" width="108.46000000000001" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eul3kOhSNh3tley34Y3X-4" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" parent="eul3kOhSNh3tley34Y3X-7" vertex="1">
           <mxGeometry width="65.6" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eul3kOhSNh3tley34Y3X-6" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" parent="eul3kOhSNh3tley34Y3X-7" vertex="1">
-          <mxGeometry x="38.18181818181818" width="31.818181818181817" height="40" as="geometry" />
+        <mxCell id="T51uil6T-Yv0GnbOR8lT-16" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="eul3kOhSNh3tley34Y3X-7">
+          <mxGeometry x="30.230000000000018" width="48" height="30.24" as="geometry" />
         </mxCell>
         <mxCell id="T51uil6T-Yv0GnbOR8lT-2" value="Server Railway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="T51uil6T-Yv0GnbOR8lT-3">
           <mxGeometry y="80" width="90" height="20" as="geometry" />
@@ -31,14 +31,32 @@
         <mxCell id="T51uil6T-Yv0GnbOR8lT-4" value="BBDD PostgreSQL&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="T51uil6T-Yv0GnbOR8lT-5">
           <mxGeometry y="80.6" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T51uil6T-Yv0GnbOR8lT-6" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/mainframe_host.svg;" vertex="1" parent="1">
-          <mxGeometry x="580" y="320" width="79.2" height="110" as="geometry" />
+        <mxCell id="T51uil6T-Yv0GnbOR8lT-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="102.70000000000005" y="440" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="T51uil6T-Yv0GnbOR8lT-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/workstation_client.svg;" vertex="1" parent="1">
-          <mxGeometry x="110" y="205" width="76.5" height="90" as="geometry" />
+        <mxCell id="T51uil6T-Yv0GnbOR8lT-8" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/home_page.svg;" vertex="1" parent="T51uil6T-Yv0GnbOR8lT-13">
+          <mxGeometry x="1.1099999999999568" width="88.89" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T51uil6T-Yv0GnbOR8lT-8" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/home_page.svg;" vertex="1" parent="1">
-          <mxGeometry x="103.81" y="440" width="88.89" height="80" as="geometry" />
+        <mxCell id="T51uil6T-Yv0GnbOR8lT-12" value="Página Inicio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="T51uil6T-Yv0GnbOR8lT-13">
+          <mxGeometry y="70" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T51uil6T-Yv0GnbOR8lT-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="103.81" y="205" width="90" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="T51uil6T-Yv0GnbOR8lT-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/workstation_client.svg;" vertex="1" parent="T51uil6T-Yv0GnbOR8lT-14">
+          <mxGeometry x="6.189999999999998" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T51uil6T-Yv0GnbOR8lT-11" value="Server FTP UOC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="T51uil6T-Yv0GnbOR8lT-14">
+          <mxGeometry y="90" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="T51uil6T-Yv0GnbOR8lT-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="574.6" y="320" width="90" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="T51uil6T-Yv0GnbOR8lT-6" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/mainframe_host.svg;" vertex="1" parent="T51uil6T-Yv0GnbOR8lT-15">
+          <mxGeometry x="5.399999999999977" width="79.2" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="T51uil6T-Yv0GnbOR8lT-10" value="Backend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="T51uil6T-Yv0GnbOR8lT-15">
+          <mxGeometry y="110" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
